@@ -32,3 +32,5 @@ Any pull requests (bugfix, improvement) are more than welcome!
 ## License
 GNU GPL v3 License - see the [LICENSE](LICENSE) file for details.
 
+
+> README.md Written with [StackEdit](https://stackedit.io/).
